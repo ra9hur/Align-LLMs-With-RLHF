@@ -1,6 +1,6 @@
 # Align LLMs With RLHF
 
-There are several standard libraries that implement RLHF. These libraries are robust covering all situations, however takes sometime to comprehend the overall flow. Here I have included all RLHF functionality on a single page keeping the implementation clean and simple.
+There are several standard libraries that implement RLHF. These libraries are robust covering all situations, however takes sometime to comprehend the overall flow. Here is an attempt to include all RLHF functionality on a single page keeping the implementation clean and simple. This should help someone seeking to understand working principles of RLHF.
 
 ***
 ---
