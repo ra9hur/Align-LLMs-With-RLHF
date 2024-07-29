@@ -60,3 +60,4 @@ RL loop follows roughly three steps:
 3. [Reinforcement Learning from Human Feedback: From Zero to chatGPT](https://www.youtube.com/watch?v=2MBJOuVq380)
 4. [Coding chatGPT from Scratch | Lecture 3: Full Pipeline](https://www.youtube.com/watch?v=11M_kfuPJ5I)
 5. [Reinforcement Learning from Human Feedback explained with math derivations and the PyTorch code](https://www.youtube.com/watch?v=qGyFrqc34yc)
+6. [The N Implementation Details of RLHF with PPO](https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo)
